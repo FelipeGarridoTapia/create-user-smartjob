@@ -9,6 +9,7 @@ Mediante un servicio REST y bajo el marco de trabajo de Spring con BD relacional
 - [Uso](#uso)
 - [Documentación API](#documentacion)
 - [Características](#características)
+- [Diagrama de Solucion (componentes)](#componentes)
 
 ## Instalación
 
@@ -132,4 +133,9 @@ Levantamiento de BD - init service
 Ejemplo de bd con registro creado:
 
 ![image](https://github.com/paytonx10/create-user-nissum/assets/75043426/a236bb3d-c83a-4721-b277-4e507a281166)
+
+
+## Diagrama de Solución (componentes)
+
+![image](https://github.com/FelipeGarridoTapia/create-user-smartjob/assets/30244789/81f29fe3-1ad2-4bdb-9d3e-1d1649bb1f02)
 
